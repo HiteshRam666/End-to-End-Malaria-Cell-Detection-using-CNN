@@ -1,4 +1,4 @@
-﻿# End-to-End-Malaria🦟-Cell-Detection-using-CNN
+﻿# Malaria🦟-Cell-Detection-using-CNN
 
 **About this project**
 
